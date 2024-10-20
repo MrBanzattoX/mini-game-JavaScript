@@ -20,8 +20,8 @@ Bem-vindo ao **JSGame Detona Ralph**! Neste repositório, você encontrará um j
 
 1. Clone este repositório para sua máquina local.
 2. Abra o arquivo `index.html` em seu navegador web.
-3. Use o cliue do mouse para interagir.
-4. Divirta-se acertando o Ralph, mas fique atento aos inimigos!
+3. Use o clique do mouse para interagir.
+4. Divirta-se acertando o Ralph !
 
 ### Contribuição
 
